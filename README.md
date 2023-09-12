@@ -10,7 +10,7 @@
 
 The idea is:
 
-Shorts Summary is a web application to create a summary of YouTube short videos using Artificial Intelligence to transcribe the video content and summarize the content.
+Shorts Summary is a web application to create a summary of YouTube shorts videos using Artificial Intelligence to transcribe the video content and summarize the content.
 
 Made with ♥ by Gabriel :wave:
 
