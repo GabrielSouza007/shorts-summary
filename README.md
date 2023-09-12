@@ -22,3 +22,4 @@ Made with ♥ by Gabriel :wave:
 - Vite/Vanilla
 - Git
 - Figma
+- NodeJs
