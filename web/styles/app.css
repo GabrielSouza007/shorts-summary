@@ -7,21 +7,19 @@
 #app > h1{
     color: #996DFF;
     margin-top: -5px;
-}
-
-#app > img{
-    width: 64px;
+    margin-bottom: -30px;
 }
 
 #app > h2{
     align-self: flex-start;
-    margin-top: 50px;
+    margin-top: 35px;
 }
 
 #app > p{
     align-self: flex-start;
     text-align: justify;
     width: 512px;
+    margin-top: -5px;
 }
 
 #app .placeholder {
