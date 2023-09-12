@@ -6,7 +6,7 @@
 
 ## 💻 Project
 
-> This project was developed from base to store personal links. 
+> This project was developed from base to summarize youtube shorts.
 
 The idea is:
 
