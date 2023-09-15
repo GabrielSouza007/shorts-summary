@@ -43,3 +43,14 @@
     color:#fff;
 }
 
+@media(max-width: 500px){
+    #form > input{
+        width: 100% !important;
+    }
+    #app > h2{
+        width: 100% !important;
+    }
+    #app > p{
+        width: 100% !important;
+    }
+}
