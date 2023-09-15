@@ -23,3 +23,4 @@ Made with ♥ by Gabriel :wave:
 - Git
 - Figma
 - NodeJs
+- Xenova/Whisper-web
