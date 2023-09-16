@@ -1,7 +1,7 @@
 <h1 align="center"> Shorts Summary </h1>
 
 <h6 align="center"> 
-	If you want to preview the application, click <a href="https://shorts-summary-gs.netlify.app/">here</a>.
+	If you want to preview the application, click <a href="#">here</a>.
 </h6>
 
 ## 💻 Project
