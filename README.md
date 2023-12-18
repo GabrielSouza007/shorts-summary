@@ -1,9 +1,5 @@
 <h1 align="center"> Shorts Summary </h1>
 
-<h6 align="center"> 
-	If you want to preview the application, click <a href="#">here</a>.
-</h6>
-
 ## 💻 Project
 
 > This project was developed from base to summarize youtube shorts.
